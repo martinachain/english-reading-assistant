@@ -23,7 +23,7 @@
 需要 [Node.js](https://nodejs.org) 18+。
 
 ```bash
-git clone <你的仓库地址>
+git clone https://github.com/martinachain/english-reading-assistant.git
 cd english-reading-assistant
 npm install
 npm run dev
